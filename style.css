@@ -1,0 +1,50 @@
+/* set the background color and font for the body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* set the width, margin, padding, border, and box shadow for the content div */
+  #content {
+    width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* set the font size, color, and text alignment for the h1 element */
+  h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* set the font size, color, and margin for the p element */
+  p {
+    font-size: 18px;
+    color: #666;
+    margin: 10px 0;
+  }
+  
+  /* set the display, width, height, margin, border, border-radius, background-color, and cursor for the button element */
+  button {
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin: 20px auto;
+    border: none;
+    border-radius: 10px;
+    background-color: #0099ff;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  /* change the background color and box shadow of the button element when hovered */
+  button:hover {
+    background-color: #00ccff;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  
